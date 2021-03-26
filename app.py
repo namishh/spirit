@@ -28,7 +28,7 @@ engine.setProperty('rate',150)
 root = Tk()
 
 
-root.title('Cognitia')
+root.title('Spirit AI')
   
 # This function is used to 
 # display time on the label
