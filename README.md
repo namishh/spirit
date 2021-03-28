@@ -1,11 +1,11 @@
 # Sprit AI
 
 Commands:
-"google <query>" opens google <br>
-"search <query>" searchs in wikipedia<br>
+"google {query}" opens google <br>
+"search {query}" searchs in wikipedia<br>
 "open teams" opens microsoft teams<br>
 "open code" opens visual studio code<br>
-"open <reddit, youtube, news and google>" open the respective app<br>
+"open {reddit, youtube, news and google}" open the respective app<br>
 "shutdown" kinda self-explainatory<br>
 "time" tells you the time<br>
 "arrange" and "files" in same query -> sorts the files according to the extension<br>
