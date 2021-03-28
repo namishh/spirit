@@ -167,7 +167,7 @@ def takecommand():
             dice = random.randint(1, 6)
             speak(f"The Dice is rolling................. It's a {dice}")
 
-        elif 'roll a dice' in query:
+        elif 'flip a coin' in query:
             results = ['Heads', 'Tails']
             result = random.choice(results)
             speak(f"{result}")
