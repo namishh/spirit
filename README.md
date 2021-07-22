@@ -14,3 +14,6 @@ Commands:
 "play music" remember to enter the music directory<br>
 "jokes" -> new joke every time<br>
 
+## Install pacakges with `pip install -r requirements.txt`
+## Run the main.py
+
